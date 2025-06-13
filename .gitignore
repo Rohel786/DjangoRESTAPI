@@ -17,7 +17,7 @@ static_collected/
 
 # Virtual environment
 venv/
-env/ # Common name for virtual environments
+env/* # Common name for virtual environments
 /htmlcov/
 .coverage
 
