@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+*.pot
+*.mo
+db.sqlite3
+media/
+static_collected/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/ # Common name for virtual environments
+/htmlcov/
+.coverage
+
+# IDEs
+.idea/ # For PyCharm/IntelliJ
+.vscode/ # For VS Code
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other
+*.iml
